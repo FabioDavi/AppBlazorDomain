@@ -1,0 +1,11 @@
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\bin\Release\net9.0\FlorApp.Domain.deps.json
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\bin\Release\net9.0\FlorApp.Domain.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\bin\Release\net9.0\FlorApp.Domain.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\obj\Release\net9.0\FlorApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\obj\Release\net9.0\FlorApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\obj\Release\net9.0\FlorApp.Domain.AssemblyInfo.cs
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\obj\Release\net9.0\FlorApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\obj\Release\net9.0\FlorApp.Domain.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\obj\Release\net9.0\refint\FlorApp.Domain.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\obj\Release\net9.0\FlorApp.Domain.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Domain\obj\Release\net9.0\ref\FlorApp.Domain.dll

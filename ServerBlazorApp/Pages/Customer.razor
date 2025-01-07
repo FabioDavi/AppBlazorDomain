@@ -1,0 +1,27 @@
+@page "/customer"
+@inject FlorApp.Application.Services.CustomerService CustomerService
+
+<h3>Customer Management</h3>
+
+<input @bind="name" placeholder="Name" />
+<input @bind="email" placeholder="Email" />
+<button @onclick="AddCustomer">Add Customer</button>
+
+<ul>
+    @foreach (var customer in customers)
+    {
+        <li>@customer.Name (@customer.Email)</li>
+    }
+</ul>
+
+@code {
+    private string name = string.Empty;
+    private string email = string.Empty;
+    private List<FlorApp.Domain.Entities.Customer> customers = new();
+
+    private void AddCustomer()
+    {
+        CustomerService.AddCustomer(name, email);
+        customers = CustomerService.GetAllCustomers();
+    }
+}

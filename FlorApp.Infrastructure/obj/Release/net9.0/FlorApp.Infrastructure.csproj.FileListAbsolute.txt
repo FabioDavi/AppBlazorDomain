@@ -1,0 +1,15 @@
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\bin\Release\net9.0\FlorApp.Infrastructure.deps.json
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\bin\Release\net9.0\FlorApp.Infrastructure.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\bin\Release\net9.0\FlorApp.Infrastructure.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\bin\Release\net9.0\FlorApp.Domain.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\bin\Release\net9.0\FlorApp.Domain.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\FlorApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\FlorApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\FlorApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\FlorApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\FlorApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\FlorApp..E404C24E.Up2Date
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\FlorApp.Infrastructure.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\refint\FlorApp.Infrastructure.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\FlorApp.Infrastructure.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Infrastructure\obj\Release\net9.0\ref\FlorApp.Infrastructure.dll

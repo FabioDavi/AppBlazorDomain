@@ -1,0 +1,13 @@
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\ServerBlazorApp.exe
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\appsettings.Development.json
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\appsettings.json
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\ServerBlazorApp.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\ServerBlazorApp.deps.json
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\ServerBlazorApp.runtimeconfig.json
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\ServerBlazorApp.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Application.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Domain.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Infrastructure.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Application.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Infrastructure.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Domain.pdb

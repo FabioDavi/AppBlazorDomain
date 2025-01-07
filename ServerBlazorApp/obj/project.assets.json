@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "FlorApp.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "FlorApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FlorApp.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FlorApp.Application.dll": {}
+        }
+      },
+      "FlorApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/FlorApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FlorApp.Domain.dll": {}
+        }
+      },
+      "FlorApp.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "FlorApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FlorApp.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FlorApp.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlorApp.Application/1.0.0": {
+      "type": "project",
+      "path": "../FlorApp.Application/FlorApp.Application.csproj",
+      "msbuildProject": "../FlorApp.Application/FlorApp.Application.csproj"
+    },
+    "FlorApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../FlorApp.Domain/FlorApp.Domain.csproj",
+      "msbuildProject": "../FlorApp.Domain/FlorApp.Domain.csproj"
+    },
+    "FlorApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../FlorApp.Infrastructure/FlorApp.Infrastructure.csproj",
+      "msbuildProject": "../FlorApp.Infrastructure/FlorApp.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "FlorApp.Application >= 1.0.0",
+      "FlorApp.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Fabio\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\Fabio\\projetos\\csharp\\FlorApp\\ServerBlazorApp\\ServerBlazorApp.csproj",
+      "projectName": "ServerBlazorApp",
+      "projectPath": "c:\\Users\\Fabio\\projetos\\csharp\\FlorApp\\ServerBlazorApp\\ServerBlazorApp.csproj",
+      "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Fabio\\projetos\\csharp\\FlorApp\\ServerBlazorApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "c:\\Users\\Fabio\\projetos\\csharp\\FlorApp\\FlorApp.Application\\FlorApp.Application.csproj": {
+              "projectPath": "c:\\Users\\Fabio\\projetos\\csharp\\FlorApp\\FlorApp.Application\\FlorApp.Application.csproj"
+            },
+            "c:\\Users\\Fabio\\projetos\\csharp\\FlorApp\\FlorApp.Infrastructure\\FlorApp.Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\Fabio\\projetos\\csharp\\FlorApp\\FlorApp.Infrastructure\\FlorApp.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      }
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

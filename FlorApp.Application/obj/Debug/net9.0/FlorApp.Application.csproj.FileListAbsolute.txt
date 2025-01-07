@@ -1,0 +1,15 @@
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\bin\Debug\net9.0\FlorApp.Application.deps.json
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\bin\Debug\net9.0\FlorApp.Application.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\bin\Debug\net9.0\FlorApp.Application.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\bin\Debug\net9.0\FlorApp.Domain.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\bin\Debug\net9.0\FlorApp.Domain.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\FlorApp.Application.csproj.AssemblyReference.cache
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\FlorApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\FlorApp.Application.AssemblyInfoInputs.cache
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\FlorApp.Application.AssemblyInfo.cs
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\FlorApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\FlorApp..AB90C29F.Up2Date
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\FlorApp.Application.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\refint\FlorApp.Application.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\FlorApp.Application.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\FlorApp.Application\obj\Debug\net9.0\ref\FlorApp.Application.dll

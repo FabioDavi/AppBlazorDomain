@@ -1,0 +1,5 @@
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Infrastructure.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Infrastructure.deps.json
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Infrastructure.pdb
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Domain.dll
+C:\Users\Fabio\projetos\csharp\FlorApp\publish\FlorApp.Domain.pdb
